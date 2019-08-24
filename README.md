@@ -1,2 +1,4 @@
-# blogen
-Bootstrap 4 Project 3
+# Blogen
+A multipage theme of Blogen using latest Bootstrap 4 beta.
+
+Project 3
